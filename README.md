@@ -1,4 +1,4 @@
-# 🧭 Multi-Agent Travel Itinerary Planner
+# 🧭 Multi-Agent Travel  Planner
 ### Built with **LangGraph**, **Python**, **Groq/OpenAI**, and **Gradio**
 
 This project is an end-to-end **multi-agent travel planning system** that automatically generates a personalized travel itinerary based on user inputs such as the destination city and interests (temples, beaches, nature, nightlife, etc.).
