@@ -101,6 +101,7 @@ The app includes a clean and minimal UI:
 - Custom theme from HuggingFace  
 
 ---
+<img width="1895" height="594" alt="Screenshot 2025-11-16 195851" src="https://github.com/user-attachments/assets/db1d3fac-b452-46e6-a2d8-fbc909767a23" />
 
 ## ▶️ How to Run
 
@@ -108,7 +109,6 @@ The app includes a clean and minimal UI:
 pip install -r requirements.txt
 python app.py
 
-<img width="1895" height="594" alt="Screenshot 2025-11-16 195851" src="https://github.com/user-attachments/assets/41b688f8-103a-43f5-a89b-dbe9a27e2f5a" />
 
 
 📍 Destination: Jaipur  
@@ -121,4 +121,3 @@ python app.py
 - 3:00 PM → City Palace + Museum
 - 6:00 PM → Nahargarh Fort Sunset Point
 - 8:00 PM → Johari Bazaar shopping
-
