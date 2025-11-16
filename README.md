@@ -108,6 +108,7 @@ The app includes a clean and minimal UI:
 pip install -r requirements.txt
 python app.py
 
+<img width="1895" height="594" alt="Screenshot 2025-11-16 195851" src="https://github.com/user-attachments/assets/41b688f8-103a-43f5-a89b-dbe9a27e2f5a" />
 
 
 📍 Destination: Jaipur  
